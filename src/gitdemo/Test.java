@@ -1,7 +1,7 @@
 /**----------------------------------------------------------+
  +   PGM-ID  :   Test.java
  +   Author  :   Liu
- +   Date    :   2015年1月21日 下午9:52:10
+ +   Date    :   2015脛锚1脭脗21脠脮 脧脗脦莽9:52:10
  +   Function:   
  +               
  +-----------------------------------------------------------*/
@@ -17,7 +17,7 @@ public class Test {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.print("hello World");
+		System.out.print("Hello World");
 	}
 
 }
